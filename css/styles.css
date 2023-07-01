@@ -1,0 +1,54 @@
+.head1{
+
+    background-color:#d5868b;
+   font-size: 200px;
+   text-align: center;
+   font-style: italic;
+   color:white;
+}
+#image{
+	width:45%;
+}
+.para{
+	background-color: #e9abdc;
+	color:rebeccapurple;
+}
+
+.para1{
+	font-size: 20px;
+}
+h3{
+	background-color: lightpink;
+}
+#back{
+	height: 1600px;
+background-color: #115a6b;
+}
+.blue{
+	background-color:#75abc7;
+}
+
+.blue1{
+	background-color: #75e6e2 ;
+}
+.blue3{
+	background-color: #97b5ff;
+}
+.blue2{
+	margin:20px;
+}
+.image{
+	width:200px;
+}
+.text{
+	font-style: italic;
+	font-size: 20px;
+	color:darkblue;
+}
+.ima{
+	height:266px;
+}
+.photo{
+	margin-left: 40px;
+	margin-right: 40px;
+}
